@@ -1,0 +1,22 @@
+=====================================
+      SALES ANALYTICS SUMMARY
+=====================================
+
+Total Sales          : $2,261,536.78
+Average Sales        : $230.77
+Total Orders         : 4922
+Unique Customers     : 793
+Unique Products      : 1861
+
+Top Category
+Technology
+
+Top Region
+West
+
+Top Customer
+Sean Miller
+
+Top Product
+Canon imageCLASS 2200 Advanced Copier
+
