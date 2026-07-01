@@ -65,7 +65,7 @@ Technology used:
 ## Installation
 
 ```bash
-git clone <repository-url>
+git clone <https://github.com/Shivam-Agrawal2007/data-sales-analysis>
 
 cd SalesAnalyticsPipeline
 
